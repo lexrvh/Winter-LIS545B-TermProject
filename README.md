@@ -1,5 +1,7 @@
 # Winter-LIS545B-TermProject
 Ths repository includes:
+
+ORIGINAL DATA FILES
 - XML Files (2)
 - GEOJSON File (1)
 - JSON Source File (1)
@@ -17,3 +19,5 @@ Ths repository includes:
 - GDBTABLX Files (9)
 - HORIZON Files (2)
 - SPX Files (2)
+STRUCTURED METADATA
+FINAL REPORT
