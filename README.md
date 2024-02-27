@@ -20,6 +20,6 @@ ORIGINAL DATA FILES
 - HORIZON Files (2)
 - SPX Files (2)
 
-STRUCTURED METADATA (To be uploaded. Schema chosen: DataCite)
+STRUCTURED METADATA (Schema chosen: DataCite)
 
-FINAL REPORT (Current ver.: DRAFT COPY)
+FINAL REPORT (Current ver.: FINAL COPY)
